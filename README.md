@@ -1,7 +1,7 @@
 # Duplicate File Searcher
 
 ## Description
-This is an application for finding duplicate files.  It is possible to search recursively through the directories. The result is a list of groups of the same files. Comparing files by weight and hash.
+This is an application for finding duplicate files. It is possible to search recursively through the directories. The result is a list of groups of the same files. Comparing files by size and hash.
 
 Requires **.netcore 3.0**
 
